@@ -1,12 +1,12 @@
-Functional Based Components
+// Functional Based Components
 
-export default function User(){
-    return(
-       <h1>Rajat Choudhary</h1>
-   );
-}
+// export default function User(){
+//     return(
+//        <h1>Rajat Choudhary</h1>
+//    );
+// }
 
-export default User;
+// export default User;
 
 
 
